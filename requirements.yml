@@ -1,0 +1,11 @@
+---
+- src: geerlingguy.firewall
+  name: ansible-role-firewall
+- src: geerlingguy.ntp
+  name: ansible-role-ntp
+- src: geerlingguy.git
+  name: ansible-role-git
+- src: geerlingguy.java
+  name: ansible-role-java
+- src: geerlingguy.jenkins
+  name: ansible-role-jenkins
